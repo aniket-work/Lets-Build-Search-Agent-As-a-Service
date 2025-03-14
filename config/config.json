@@ -1,0 +1,6 @@
+{
+    "search_agent": {
+        "model": "openai:gpt-4",
+        "max_results": 3
+    }
+}
